@@ -161,6 +161,28 @@ Use the repo’s provided testing script (recommended):
 cd test_models
 python sRGB_test.py --model_path /path/to/checkpoint.pth
 ```
+---
+## 📖 Citation
+
+If you find this work useful in your research, please consider citing:
+
+```bibtex
+
+@ARTICLE{Sinf2026,
+
+  author={Hu, Xiaowan and Liu, Henan and Zheng, Ce and Li, Xinyang and Xu, Mai},
+
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+
+  title={Learning Continuous Spatiotemporal Implicit Neural Fields for Unsupervised Video Denoising}, 
+
+  year={2026},
+
+  pages={1-18},
+
+  doi={10.1109/TPAMI.2026.3680159}
+
+}
 
 ---
 
