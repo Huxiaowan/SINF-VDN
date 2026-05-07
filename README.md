@@ -109,12 +109,6 @@ conda activate sinf
 pip install -r requirements.txt
 ```
 
-### 3) Train (your current workflow)
-```bash
-cd train_models
-python sRGB_train.py
-```
-
 ---
 
 ## 🔧 Installation
@@ -157,30 +151,6 @@ data/
 - Update dataset paths in: `train_models/sRGB_train.py`
 
 ---
-
-## 🏋️ Training & Testing
-
-### Train
-```bash
-cd train_models
-python sRGB_train.py
-```
-
-### Common options
-```bash
-python sRGB_train.py \
-  --GPU 0 \
-  --epochs 300 \
-  --batch_size 1 \
-  --lr 1e-4 \
-  --train_length 8 \
-  --patch_size 144
-```
-
-### Resume training
-If the script auto-resumes from a log directory, make sure you either:
-- keep the same `log_dir` to resume, or
-- change `log_dir` / delete old checkpoints to start from scratch.
 
 
 ## 📊 Evaluation
