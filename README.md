@@ -20,10 +20,8 @@ README.md
 
 <!-- Optional "links" row (fill in when you have them) -->
 <p>
-  <b>Paper</b>: (HOLD) &nbsp;|&nbsp;
-  <b>Project Page</b>: (HOLD) &nbsp;|&nbsp;
-  <b>Video</b>: (HOLD) &nbsp;|&nbsp;
-  <b>Poster</b>: (HOLD)
+  <b>Paper</b>: <a href="https://ieeexplore.ieee.org/document/11471067">IEEE Xplore</a> &nbsp;|&nbsp;
+  <b>Project Page</b>: <a href="https://github.com/Huxiaowan/SINF-VDN">GitHub</a>
 </p>
 
 <!-- Optional teaser image placeholder -->
