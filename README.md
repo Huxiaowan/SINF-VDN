@@ -161,7 +161,8 @@ Use the repo’s provided testing script (recommended):
 cd test_models
 python sRGB_test.py --model_path /path/to/checkpoint.pth
 ```
----
+
+
 ## 📖 Citation
 
 If you find this work useful in your research, please consider citing:
@@ -181,10 +182,9 @@ If you find this work useful in your research, please consider citing:
   pages={1-18},
 
   doi={10.1109/TPAMI.2026.3680159}
-
 }
 
----
+
 
 ## 📬 Contact
 
